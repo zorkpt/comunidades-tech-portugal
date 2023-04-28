@@ -7,6 +7,17 @@
 - [Portuguese Women in Tech](https://www.portuguesewomenintech.com/)
 
 ## Programação
+
+### .NET
+- [NetPonto](https://netponto.org/)
+
+
+### WordPress
+- [WordPress Portugal](https://wp-portugal.com/)
+
+### Data Science
+- [Data Science Portuguese Association](https://dspa.pt/)
+
 ### Linguagens de Programação
 #### JavaScript
 
