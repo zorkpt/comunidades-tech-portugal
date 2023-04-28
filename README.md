@@ -6,6 +6,7 @@
 - [Porto Codes](https://porto.codes/)
 - [Portuguese Women in Tech](https://www.portuguesewomenintech.com/)
 - [ZWAME Fórum](https://forum.zwame.pt/)
+- [LusoRobotica](https://lusorobotica.com/)
 
 ## Programação
 
