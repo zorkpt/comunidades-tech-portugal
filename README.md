@@ -4,6 +4,7 @@
 - [devPT](https://devpt.co/)
 - [portugal-a-programar](https://www.portugal-a-programar.pt/)
 - [Porto Codes](https://porto.codes/)
+- [Portuguese Women in Tech](https://www.portuguesewomenintech.com/)
 
 ## Programação
 ### Linguagens de Programação
