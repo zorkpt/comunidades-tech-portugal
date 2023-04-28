@@ -7,6 +7,7 @@
 - [Portuguese Women in Tech](https://www.portuguesewomenintech.com/)
 - [ZWAME Fórum](https://forum.zwame.pt/)
 - [LusoRobotica](https://lusorobotica.com/)
+- [ANSOL](https://ansol.org/)
 
 ## Programação
 
