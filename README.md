@@ -8,6 +8,7 @@
 - [ZWAME Fórum](https://forum.zwame.pt/)
 - [LusoRobotica](https://lusorobotica.com/)
 - [ANSOL](https://ansol.org/)
+- [D3](https://www.direitosdigitais.pt/)
 
 ## Programação
 
