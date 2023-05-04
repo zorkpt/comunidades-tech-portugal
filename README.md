@@ -9,6 +9,7 @@
 - [LusoRobotica](https://lusorobotica.com/)
 - [ANSOL](https://ansol.org/)
 - [D3](https://www.direitosdigitais.pt/)
+- [Meio Do Mato](https://meiodomato.com/)
 
 ## Programação
 
