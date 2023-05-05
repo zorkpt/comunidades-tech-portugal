@@ -40,6 +40,7 @@
 ## Sistemas Operativos
 - [Centro Linux](https://centrolinux.pt/)
 - [Ubuntu Portugal](https://ubuntu-pt.org/)
+- [GLUA](https://glua.ua.pt/)
  
 ## Jogos
 - [Games Dev PT](https://www.facebook.com/gamedevspt)
