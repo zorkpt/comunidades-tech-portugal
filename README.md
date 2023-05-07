@@ -13,7 +13,6 @@
 ### .NET
 - [NetPonto](https://netponto.org/)
 
-
 ### WordPress
 - [WordPress Portugal](https://wp-portugal.com/)
 
@@ -21,6 +20,7 @@
 - [Data Science Portuguese Association](https://dspa.pt/)
 
 ### Linguagens de Programação
+
 #### JavaScript
 
 #### PHP
@@ -38,12 +38,12 @@
 - [Centro Linux](https://centrolinux.pt/)
 - [Ubuntu Portugal](https://ubuntu-pt.org/)
 - [GLUA](https://glua.ua.pt/)
- 
+
 ## Jogos
-- [Games Dev PT](https://www.facebook.com/gamedevspt)
-- [PT Game Developers](https://www.facebook.com/groups/ptgamedevelopers)
-- [Women in Games Portugal](https://www.facebook.com/groups/559088754721825)
-- [Game Audio PT](https://www.facebook.com/groups/gameaudiopt)
+- [Games Dev PT](https://www.facebook.com/gamedevspt/)
+- [PT Game Developers](https://www.facebook.com/groups/ptgamedevelopers/)
+- [Women in Games Portugal](https://www.facebook.com/groups/559088754721825/)
+- [Game Audio PT](https://www.facebook.com/groups/gameaudiopt/)
 - [Game Dev Lisbon](https://gamedevlisbon.com/)
 
 ## Mobile
