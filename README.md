@@ -1,9 +1,6 @@
 # Comunidades de Tecnologia e IT em Portugal
 
 ## Comunidades Gerais
-- [devPT](https://devpt.co/)
-- [portugal-a-programar](https://www.portugal-a-programar.pt/)
-- [Porto Codes](https://porto.codes/)
 - [Portuguese Women in Tech](https://www.portuguesewomenintech.com/)
 - [ZWAME Fórum](https://forum.zwame.pt/)
 - [LusoRobotica](https://lusorobotica.com/)
@@ -12,6 +9,9 @@
 - [Meio Do Mato](https://meiodomato.com/)
 
 ## Programação
+- [devPT](https://devpt.co/)
+- [portugal-a-programar](https://www.portugal-a-programar.pt/)
+- [Porto Codes](https://porto.codes/)
 
 ### .NET
 - [NetPonto](https://netponto.org/)
