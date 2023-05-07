@@ -1,12 +1,9 @@
 # Comunidades de Tecnologia e IT em Portugal
 
 ## Comunidades Gerais
-- [Portuguese Women in Tech](https://www.portuguesewomenintech.com/)
 - [ZWAME Fórum](https://forum.zwame.pt/)
-- [LusoRobotica](https://lusorobotica.com/)
 - [ANSOL](https://ansol.org/)
 - [D3](https://www.direitosdigitais.pt/)
-- [Meio Do Mato](https://meiodomato.com/)
 
 ## Programação
 - [devPT](https://devpt.co/)
@@ -54,3 +51,6 @@
 
 
 ## Outros Tópicos
+- [Portuguese Women in Tech](https://www.portuguesewomenintech.com/)
+- [LusoRobotica](https://lusorobotica.com/)
+- [Meio Do Mato](https://meiodomato.com/)
