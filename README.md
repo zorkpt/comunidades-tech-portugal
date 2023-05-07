@@ -31,9 +31,6 @@
 #### Python
 - [Python Portugal](https://python.pt/)
 
-## Segurança da Informação
-
-
 ## Sistemas Operativos
 - [Centro Linux](https://centrolinux.pt/)
 - [Ubuntu Portugal](https://ubuntu-pt.org/)
