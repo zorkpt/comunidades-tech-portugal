@@ -2,8 +2,6 @@
 
 ## Comunidades Gerais
 - [ZWAME Fórum](https://forum.zwame.pt/)
-- [ANSOL](https://ansol.org/)
-- [D3](https://www.direitosdigitais.pt/)
 
 ## Programação
 - [devPT](https://devpt.co/)
@@ -46,6 +44,13 @@
 ## Mobile
 - [Flutter Portugal](https://flutter.pt/)
 
+## Software Livre, Média e Dados Abertos
+- [ANSOL](https://ansol.org/)
+- [D3](https://www.direitosdigitais.pt/)
+- [PrivacyLx](https://privacylx.org/)
+- [Creative Commons Portugal](https://www.facebook.com/creativecommonsportugal/)
+- [Transparência Portugal](https://transparencia.pt/)
+- [Wikimedia Portugal](https://wikimedia.pt/)
 
 ## Outros Tópicos
 - [Portuguese Women in Tech](https://www.portuguesewomenintech.com/)
