@@ -2,11 +2,24 @@
 
 ## Comunidades Gerais
 - [ZWAME Fórum](https://forum.zwame.pt/)
+- [Meio Do Mato](https://meiodomato.com/)
+
+## Software Livre, Média e Dados Abertos
+- [ANSOL](https://ansol.org/)
+- [D3](https://www.direitosdigitais.pt/)
+- [PrivacyLx](https://privacylx.org/)
+- [Creative Commons Portugal](https://www.facebook.com/creativecommonsportugal/)
+- [Transparência Portugal](https://transparencia.pt/)
+- [Wikimedia Portugal](https://wikimedia.pt/)
+- [LibreOffice Portugal](https://wiki.documentfoundation.org/Main_Page/pt)
 
 ## Programação
 - [devPT](https://devpt.co/)
 - [portugal-a-programar](https://www.portugal-a-programar.pt/)
 - [Porto Codes](https://porto.codes/)
+
+### Java
+- [Java User Group](https://jug.pt/)
 
 ### .NET
 - [NetPonto](https://netponto.org/)
@@ -25,14 +38,19 @@
 - [PHP Portugal](https://php-portugal.com/)
 - [Laravel Portugal](https://laravel.pt/)
 - [Drupal Portugal](https://drupal.pt/)
+- [WordPress Portugal](http://wp-portugal.com/)
+- [Portugal PHP Mail Group](https://groups.google.com/g/portugal-phpug)
 
 #### Python
 - [Python Portugal](https://python.pt/)
 
 ## Sistemas Operativos
+- [GNU/Linux Portugal](http://www.gnulinux-portugal.org/)
 - [Centro Linux](https://centrolinux.pt/)
 - [Ubuntu Portugal](https://ubuntu-pt.org/)
+- [Debian Portugal](http://www.debianpt.org/)
 - [GLUA](https://glua.ua.pt/)
+- [Linux Caixa Mágica](https://www.caixamagica.pt/)
 
 ## Jogos
 - [Games Dev PT](https://www.facebook.com/gamedevspt/)
@@ -43,16 +61,10 @@
 
 ## Mobile
 - [Flutter Portugal](https://flutter.pt/)
+- [AndroidPT](http://www.androidpt.com/)
 
-## Software Livre, Média e Dados Abertos
-- [ANSOL](https://ansol.org/)
-- [D3](https://www.direitosdigitais.pt/)
-- [PrivacyLx](https://privacylx.org/)
-- [Creative Commons Portugal](https://www.facebook.com/creativecommonsportugal/)
-- [Transparência Portugal](https://transparencia.pt/)
-- [Wikimedia Portugal](https://wikimedia.pt/)
-
-## Outros Tópicos
-- [Portuguese Women in Tech](https://www.portuguesewomenintech.com/)
+## Robótica
 - [LusoRobotica](https://lusorobotica.com/)
-- [Meio Do Mato](https://meiodomato.com/)
+
+## Social
+- [Portuguese Women in Tech](https://www.portuguesewomenintech.com/)
