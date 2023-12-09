@@ -68,3 +68,12 @@
 
 ## Social
 - [Portuguese Women in Tech](https://www.portuguesewomenintech.com/)
+
+## HackerSpaces/MakerSpaces/Fablabs
+- [Associação FabLabs de Portugal](https://www.fablabsportugal.pt/)
+- [HackerSchool](https://hackerschool.tecnico.ulisboa.pt/)
+- [MILL-Makers in Little Lisbon](https://mill.pt/)
+- [FabLab Lisboa](https://linktr.ee/fablablisboa)
+- [ISTartLab](https://istartlab.tecnico.ulisboa.pt/)
+- [Fablab Benfica](https://www.facebook.com/FabLabBenfica/)
+- [Fablab FCT](https://www.fctfablab.fct.unl.pt/)
