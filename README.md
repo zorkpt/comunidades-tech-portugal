@@ -33,6 +33,7 @@
 ### Linguagens de Programação
 
 #### JavaScript
+- [Portugal.vue](https://vuejs.pt/)
 
 #### PHP
 - [PHP Portugal](https://php-portugal.com/)
