@@ -34,6 +34,7 @@
 
 #### JavaScript
 - [Portugal.vue](https://vuejs.pt/)
+- [LisboaJS](https://lisboajs.org/)
 
 #### PHP
 - [PHP Portugal](https://php-portugal.com/)
