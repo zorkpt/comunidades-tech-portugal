@@ -17,6 +17,7 @@
 - [devPT](https://devpt.co/)
 - [portugal-a-programar](https://www.portugal-a-programar.pt/)
 - [Porto Codes](https://porto.codes/)
+- [GitHub Portugal](https://www.githubportugal.com/)
 
 ### Java
 - [Java User Group](https://jug.pt/)
