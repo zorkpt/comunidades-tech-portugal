@@ -7,7 +7,7 @@
 ## Software Livre, Média e Dados Abertos
 - [ANSOL](https://ansol.org/)
 - [D3](https://www.direitosdigitais.pt/)
-- [PrivacyLx](https://privacylx.org/)
+- [PrivacyLx](https://privacylx.org/) `📍Lisboa`
 - [Creative Commons Portugal](https://www.facebook.com/creativecommonsportugal/)
 - [Transparência Portugal](https://transparencia.pt/)
 - [Wikimedia Portugal](https://wikimedia.pt/)
@@ -16,26 +16,18 @@
 ## Programação
 - [devPT](https://devpt.co/)
 - [portugal-a-programar](https://www.portugal-a-programar.pt/)
-- [Porto Codes](https://porto.codes/)
+- [Porto Codes](https://porto.codes/) `📍Porto`
 - [GitHub Portugal](https://www.githubportugal.com/)
 
-### Java
+#### Java
 - [Java User Group](https://jug.pt/)
-
-### .NET
-- [NetPonto](https://netponto.org/)
-
-### WordPress
-- [WordPress Portugal](https://wp-portugal.com/)
-
-### Data Science
-- [Data Science Portuguese Association](https://dspa.pt/)
-
-### Linguagens de Programação
 
 #### JavaScript
 - [Portugal.vue](https://vuejs.pt/)
-- [LisboaJS](https://lisboajs.org/)
+- [LisboaJS](https://lisboajs.org/) `📍Lisboa`
+
+#### .NET
+- [NetPonto](https://netponto.org/)
 
 #### PHP
 - [PHP Portugal](https://php-portugal.com/)
@@ -47,12 +39,15 @@
 #### Python
 - [Python Portugal](https://python.pt/)
 
+## Data Science
+- [Data Science Portuguese Association](https://dspa.pt/)
+
 ## Sistemas Operativos
 - [GNU/Linux Portugal](http://www.gnulinux-portugal.org/)
 - [Centro Linux](https://centrolinux.pt/)
 - [Ubuntu Portugal](https://ubuntu-pt.org/)
 - [Debian Portugal](http://www.debianpt.org/)
-- [GLUA](https://glua.ua.pt/)
+- [GLUA](https://glua.ua.pt/) `📍Aveiro`
 - [Linux Caixa Mágica](https://www.caixamagica.pt/)
 
 ## Jogos
@@ -60,7 +55,7 @@
 - [PT Game Developers](https://www.facebook.com/groups/ptgamedevelopers/)
 - [Women in Games Portugal](https://www.facebook.com/groups/559088754721825/)
 - [Game Audio PT](https://www.facebook.com/groups/gameaudiopt/)
-- [Game Dev Lisbon](https://gamedevlisbon.com/)
+- [Game Dev Lisbon](https://gamedevlisbon.com/) `📍Lisboa`
 
 ## Mobile
 - [Flutter Portugal](https://flutter.pt/)
@@ -74,9 +69,10 @@
 
 ## HackerSpaces/MakerSpaces/Fablabs
 - [Associação FabLabs de Portugal](https://www.fablabsportugal.pt/)
-- [HackerSchool](https://hackerschool.tecnico.ulisboa.pt/)
-- [MILL-Makers in Little Lisbon](https://mill.pt/)
-- [FabLab Lisboa](https://linktr.ee/fablablisboa)
-- [ISTartLab](https://istartlab.tecnico.ulisboa.pt/)
-- [Fablab Benfica](https://www.facebook.com/FabLabBenfica/)
-- [Fablab FCT](https://www.fctfablab.fct.unl.pt/)
+- [FabLab Lisboa](https://linktr.ee/fablablisboa) `📍Lisboa`
+- [Fablab Benfica](https://www.facebook.com/FabLabBenfica/) `📍Lisboa`
+- [Fablab FCT](https://www.fctfablab.fct.unl.pt/) `📍Lisboa`
+- [HackerSchool](https://hackerschool.tecnico.ulisboa.pt/) `📍Lisboa`
+- [ISTartLab](https://istartlab.tecnico.ulisboa.pt/) `📍Lisboa`
+- [LCD Porto](https://lcdporto.org) `📍Porto`
+- [MILL-Makers in Little Lisbon](https://mill.pt/) `📍Lisboa`
